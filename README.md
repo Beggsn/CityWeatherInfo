@@ -1,6 +1,6 @@
-# myWeather
+Die übliche Wetter App ;-)
 
-Wetter App mit passenden Bildern von unsplash.com bei Städte Eingabe.
+Eine Wetter App mit passenden Bildern von unsplash.com bei Städte Eingabe.
 Angezeigt werden:
   - Städtename
   - Temperatur in °Celsius
