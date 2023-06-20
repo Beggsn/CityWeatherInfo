@@ -1,6 +1,6 @@
 Die übliche Wetter App ;-)
 
-Eine Wetter App mit passenden Bildern von unsplash.com bei Städte Eingabe.
+Eine Wetter App mit Städte Eingabe und passenden Bildern (unsplash.com).
 
 Angezeigt werden:
   - Städtename
