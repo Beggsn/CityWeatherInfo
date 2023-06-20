@@ -40,7 +40,8 @@ let weather = {
     document.body.style.backgroundImage =
       "url('https://source.unsplash.com/1920x1080/?" + name + "')";
   },
-  // Funktion zum Ausführen einer Wetterdaten-Suche
+  // Funktion zum Ausführen einer Wetterdaten-Suche,
+  // sie ruft die fetchWeather()-Funktion auf und übergibt den Value des Suchfelds
   search: function () {
     this.fetchWeather(document.querySelector(".search-bar").value);
   },
